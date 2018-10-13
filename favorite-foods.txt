@@ -1,5 +1,5 @@
-Pizza
-Chocolate
-Pie
-Apples
 Pear
+Apples
+Pie
+Chocolate
+Pizza
